@@ -571,7 +571,6 @@ process PREDICTION {
     input:
     path merged_matrix  
     path merged_compressed_scores  
-
     path ref_model_inputs_dir
 
     output:
